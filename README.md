@@ -1,5 +1,6 @@
 # WarThunder-artillery-tanks-fire-angle
-This program should give the angle to fire at when using either a M44 or M55 to hit a given target
+This program should give the angle to fire at when using either a M44 or M55 to hit a given target.
+I may later add other vehicles as well.
 
 - At the moment I am not taking air resistance into account currently off by a factor of two in range
 - I need to take air resistance into account to get any kind of accuracy
