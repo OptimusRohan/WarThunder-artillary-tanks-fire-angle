@@ -1,0 +1,16 @@
+the distance travelled horizonitlly will be:
+x = cos(deg)*V*t
+
+the time to the height is
+sin(deg)*V- t*g = 0
+so
+sin(deg)*V= t*g
+(sin(deg)*V)/g = t
+but I need twice this time so that the amounition falls to the ground
+so when I sustitute I get
+x = cos(deg)*V*sin(deg)*V/g*2
+x*g= 2*cos(deg)*sin(deg)*V^2
+xg/V^2 = 2*cos(deg)*sin(deg)
+xg/V^2 = sin(2*deg)
+arcsin(xg/V^2) = 2*deg
+deg = arcsin(xg/V^2)/2
