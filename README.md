@@ -2,6 +2,9 @@
 This program should give the angle to fire at when using either a M44 or M55 to hit a given target.
 I may later add other vehicles as well.
 
+## It Turns Out Warthunder already has this kind of thing in the game under the Sight Distance Control.
+But I will continue to update and work on it
+
 - I have a version that currently uses a rough estimate for air resistance and gets numbers but I have yet to test its accuracy
 - Also I only have the M44 right now, I will get this one working before I start working on others
 - I need to take air resistance into account to get any kind of accuracy
